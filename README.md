@@ -2,7 +2,12 @@
 Project-True-Randomization: Plan A: Using Existence; Plan B: Try some DIYgod Circuits
 
 # Run & Test
-python random-org.py
+python random-org.py  
+or use 
+```
+python3 random-org.py 
+```
+if env problems occurs  
 
 # Plan A
 Using https://www.random.org  
