@@ -1,0 +1,12 @@
+{
+    "jsonrpc": "2.0",
+    "method": "generateIntegers",
+    "params": {
+        "apiKey": "90167e80-3466-4f12-bb02-0b66050c2785",
+        "n": 6,
+        "min": 1,
+        "max": 100,
+        "replacement": true
+    },
+    "id": 42
+}
